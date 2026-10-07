@@ -7,8 +7,8 @@ background.
 
 Click to run the deployed version.
 
-* [SAXPY](https://cis5650-fall-2025.github.io/WebGPU-Compute-Samples/WebGPUSAXPY.html)
-* [Matrix Multiplication (Naive and Tiled using Shared Memory)](https://cis5650-fall-2025.github.io/WebGPU-Compute-Samples/WebGPUMatrixMultiplication.html)
+* [SAXPY](https://cis5650-fall-2026.github.io/WebGPU-Compute-Samples/WebGPUSAXPY.html)
+* [Matrix Multiplication (Naive and Tiled using Shared Memory)](https://cis5650-fall-2026.github.io/WebGPU-Compute-Samples/WebGPUMatrixMultiplication.html)
 
 ## Run locally
 
