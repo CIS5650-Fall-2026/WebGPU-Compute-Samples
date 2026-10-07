@@ -489,7 +489,7 @@ async function matrixMultiplication(mode) {
 
     if (mode === MatrixHelpers.mode.BASIC) {
         resultsToTableBasic(results);
-    } else if (mode === MatrixHelpers.mode.ADVANCE || mode === mode === MatrixHelpers.mode.FULL) {
+    } else if (mode === MatrixHelpers.mode.ADVANCE || mode === MatrixHelpers.mode.FULL) {
         resultsToTableAdvance(results);
     }
 }
